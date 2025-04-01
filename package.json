@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrungKien0206/nodejs-blog.git"
+  },
+  "keywords": [
+    "t6",
+    "blog",
+    "t6",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "trungkien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrungKien0206/nodejs-blog/issues"
+  },
+  "homepage": "https://github.com/TrungKien0206/nodejs-blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
